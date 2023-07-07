@@ -1,8 +1,9 @@
 
 ## ABOUTE 
+This repository contains a beginner-friendly Discord bot implemented using the Discord.js library and powered by an SQLite database backend. The bot is designed to provide a foundation for users who are new to building Discord bots and want to learn the basics of integrating a database into their projects.
+
 
 ## TITLE
-# Beginner-Discord.JS-Bot-with-sqlite3-backend
 Beginner Discord.Js Bot with SQLite3 Database backend 
 
 ## Requirments
@@ -17,3 +18,7 @@ Beginner Discord.Js Bot with SQLite3 Database backend
 
 ## Socials 
 > [Instagram](https://www.instagram.com/essnce_dev/)
+
+## Contribution 
+Contributions to this Discord.js beginner bot are welcome. If you find any bugs, have feature requests, or want to make improvements, please open an issue or submit a pull request.
+When contributing, please follow the existing code style and conventions. Additionally, make sure to test your changes thoroughly before submitting a pull request.
