@@ -105,7 +105,7 @@ module.exports = {
     sqliteClient
 }
 
-
+// re-construct database | then move *.db file in repo folder
 async function main(){
 
     const dbName = 'bot_db';
