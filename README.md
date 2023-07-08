@@ -11,7 +11,7 @@ Beginner Discord.Js Bot with SQLite3 Database backend
 - `Discord.js` ([source](https://nodejs.org/en))
 - `sqlite3` ([source](https://www.npmjs.com/package/sqlite3))
 
-## 3-Step installation guid
+## 3-Step installation guide
 1. CLONE REPO
 2. INSERT BOT-TOKEN, BOT-ID and Guild-ID (Discord Server ID) into `config.json`
 3. `cd into repo folder` then run `node .`
